@@ -1,4 +1,5 @@
 public class Hello {
-    String  test;
+    String  lipi;
     int a;
+    int b;
 }
